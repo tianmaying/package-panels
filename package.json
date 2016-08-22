@@ -7,6 +7,6 @@
         "codebox": ">=1.0.0-alpha"
     },
     "packageDependencies": {
-        "tabs": "CodeboxIDE/package-tabs"
+        "tabs": "tianmaying/package-tabs"
     }
 }
