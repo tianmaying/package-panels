@@ -20,7 +20,7 @@ manager.render();
 // Toggle panels display
 commands.register({
     id: "view.panels.toggle",
-    title: "View: Toggle Side Bar",
+    title: "打开/关闭侧边栏",
     run: function() {
         settings.data.set("visible", !settings.data.get("visible"));
         codebox.settings.save();
